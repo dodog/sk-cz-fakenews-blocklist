@@ -10,6 +10,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       # Step 1: Check out your repository's code
       - uses: actions/checkout@v3
@@ -17,11 +18,11 @@ jobs:
       # Step 2: Fetch, format, and save the hosts file
       - name: Process and update hosts file
         run: |
-          # Download the source list
-          curl -s -o source_list.txt https://konspiratori.sk/static/lists/zoznam_bez_score.txt
+          # Download the source list. Use --fail to stop on HTTP errors.
+          curl -s --fail -o source_list.txt https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
           # Create/overwrite the hosts file and add a header
-          echo "# SK/CZ Fake news blocklist" > hosts.txt
+          echo "# Fake news blocklist" > hosts.txt
           echo "# Automatically updated $(date -u)" >> hosts.txt
           echo "# Source: https://konspiratori.sk" >> hosts.txt
           echo "" >> hosts.txt
