@@ -1,0 +1,47 @@
+name: Update Fake News Hosts
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Sunday. Adjust the cron schedule as needed.
+    - cron: '0 0 * * 0'
+  # Allows you to manually trigger the workflow from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out your repository's code
+      - uses: actions/checkout@v3
+
+      # Step 2: Fetch, format, and save the hosts file
+      - name: Process and update hosts file
+        run: |
+          # Download the source list
+          curl -s -o source_list.txt https://konspiratori.sk/static/lists/zoznam_bez_score.txt
+
+          # Create/overwrite the hosts file and add a header
+          echo "# SK/CZ Fake news blocklist" > hosts.txt
+          echo "# Automatically updated $(date -u)" >> hosts.txt
+          echo "# Source: https://konspiratori.sk" >> hosts.txt
+          echo "" >> hosts.txt
+
+          # Read the source file, prepend '0.0.0.0 ', and append to hosts.txt
+          while IFS= read -r domain; do
+            # Skip empty lines
+            if [ -n "$domain" ]; then
+              echo "0.0.0.0 $domain" >> hosts.txt
+            fi
+          done < source_list.txt
+
+      # Step 3: Commit and push the changes if the file was modified
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          # Only commit if the hosts.txt file has actually changed
+          git diff --quiet --exit-code hosts.txt || {
+            git add hosts.txt
+            git commit -m "chore: update hosts blocklist [skip ci]"
+            git push
+          }
