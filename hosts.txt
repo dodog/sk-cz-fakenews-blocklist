@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Sun Feb  8 05:20:05 UTC 2026
+# Updated: Mon Feb  9 05:22:46 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -64,6 +64,7 @@
 0.0.0.0 vesmirni-lide.cz
 0.0.0.0 tvjanosik.com
 0.0.0.0 spolok-archa.info
+0.0.0.0 liptakpeter.blog.pravda.sk
 0.0.0.0 nespokojeny.cz
 0.0.0.0 informace.top
 0.0.0.0 petrabostlova.wordpress.com
@@ -133,6 +134,7 @@
 0.0.0.0 zdravysex.sk
 0.0.0.0 politikarina.cz
 0.0.0.0 vkpatriarhat.org
+0.0.0.0 vedeckeokienko.blog.pravda.sk
 0.0.0.0 hlavnydennik.sk
 0.0.0.0 rizikaockovania.sk
 0.0.0.0 czechfreepress.cz
@@ -149,6 +151,7 @@
 0.0.0.0 nazorobcana.sk
 0.0.0.0 hlavnespravy.sk
 0.0.0.0 dostojneslovensko.eu
+0.0.0.0 mykaellle.blog.pravda.sk
 0.0.0.0 zdravotnictvo2.webnode.sk
 0.0.0.0 necenzurovanapravda.cz
 0.0.0.0 antiliberal.sk
@@ -165,6 +168,8 @@
 0.0.0.0 zvedavec.news
 0.0.0.0 svobodny-vysilac.cz
 0.0.0.0 protest.novemedia.sk
+0.0.0.0 politolog.blog.pravda.sk
+0.0.0.0 istrazca.blog.pravda.sk
 0.0.0.0 inforovnovaha.sk
 0.0.0.0 kla.tv
 0.0.0.0 ocemsemlci.cz
@@ -186,6 +191,7 @@
 0.0.0.0 nezavislamedia.cz
 0.0.0.0 volnazona.com
 0.0.0.0 revoluciapravdy.sk
+0.0.0.0 pavolslota.blog.pravda.sk
 0.0.0.0 topcz.net
 0.0.0.0 jnet.sk
 0.0.0.0 bajecnezdravie.sk
@@ -196,6 +202,9 @@
 0.0.0.0 dennik-republika.sk
 0.0.0.0 snn.sk
 0.0.0.0 islamizace.cz
+0.0.0.0 lavida.blog.pravda.sk
+0.0.0.0 erikmajercak.blog.pravda.sk
+0.0.0.0 karolondrias.blog.pravda.sk
 0.0.0.0 incorrect.cz
 0.0.0.0 rtps.sk
 0.0.0.0 ubytovanieslovensko.com
@@ -220,13 +229,18 @@
 0.0.0.0 slovenskeslovo.sk
 0.0.0.0 domacaliecba.sk
 0.0.0.0 themindunleashed.com
+0.0.0.0 trikopce.blog.pravda.sk
+0.0.0.0 pskakal2.blog.pravda.sk
+0.0.0.0 ferro.blog.pravda.sk
 0.0.0.0 alatyr.sk
 0.0.0.0 prinasamenadej.sk
 0.0.0.0 quintus-sertorius.webnode.cz
 0.0.0.0 paradigma.sk
 0.0.0.0 slovinfos.sk
 0.0.0.0 dennik-dnes.sk
+0.0.0.0 jankratky.blog.pravda.sk
 0.0.0.0 katolicka-cirkev-vosvete.webnode.sk
+0.0.0.0 malinova.blog.pravda.sk
 0.0.0.0 rehabilituj.sk
 0.0.0.0 pozitivnisvet.cz
 0.0.0.0 magazinslovensko.online
@@ -240,9 +254,10 @@
 0.0.0.0 narodninoviny.cz
 0.0.0.0 outsidermedia.cz
 0.0.0.0 arindrexler.com
-0.0.0.0 lucasperny.blog.pravda.sk
 0.0.0.0 laska-pretvara-svet.webnode.sk
 0.0.0.0 farmazdravi.cz
+0.0.0.0 janatutkova.blog.pravda.sk
+0.0.0.0 zdrdol.blog.pravda.sk
 0.0.0.0 tvotv.sk
 0.0.0.0 paralelne.cz
 0.0.0.0 spdr.sk
@@ -251,6 +266,7 @@
 0.0.0.0 resetheus.org
 0.0.0.0 eportal.cz
 0.0.0.0 skspravy.sk
+0.0.0.0 veget.blog.pravda.sk
 0.0.0.0 zmensvojzivot.cz
 0.0.0.0 televiziaslovan.sk
 0.0.0.0 casopisdimenzie.sk
@@ -270,6 +286,9 @@
 0.0.0.0 gancovky.sk
 0.0.0.0 dennikvv.sk
 0.0.0.0 radiouniversum.cz
+0.0.0.0 medvedar.blog.pravda.sk
+0.0.0.0 stan021.blog.pravda.sk
+0.0.0.0 ondrejgorod2.blog.pravda.sk
 0.0.0.0 parlamentnilisty.cz
 0.0.0.0 abybylojasno.cz
 0.0.0.0 bystricoviny.sk
@@ -279,6 +298,7 @@
 0.0.0.0 znovuspolu.com
 0.0.0.0 rozhlady.sk
 0.0.0.0 modryjelen.com
+0.0.0.0 mpgavlak.blog.pravda.sk
 0.0.0.0 oracle911blog.wordpress.com
 0.0.0.0 slovenskoaktualne.sk
 0.0.0.0 dfens-cz.com
@@ -301,6 +321,7 @@
 0.0.0.0 ereport.sk
 0.0.0.0 svedomi-naroda.cz
 0.0.0.0 vmagazin.sk
+0.0.0.0 dedic.blog.pravda.sk
 0.0.0.0 michalapetr.cz
 0.0.0.0 poselstvi-zbytku.org
 0.0.0.0 slovenskobezgmo.org
@@ -322,6 +343,7 @@
 0.0.0.0 zurnaly.sk
 0.0.0.0 svobodnymonitor.cz
 0.0.0.0 parlamentne-volby-2016.sk
+0.0.0.0 milanantal.blog.pravda.sk
 0.0.0.0 hfi.sk
 0.0.0.0 czechaslavakia.cz
 0.0.0.0 noveslovo.sk
