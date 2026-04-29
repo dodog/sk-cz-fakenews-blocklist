@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Tue Apr 28 06:23:20 UTC 2026
+# Updated: Wed Apr 29 06:15:47 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -195,7 +195,6 @@
 0.0.0.0 topcz.net
 0.0.0.0 jnet.sk
 0.0.0.0 bajecnezdravie.sk
-0.0.0.0 radyprezdravie.sk
 0.0.0.0 radyprezeny.sk
 0.0.0.0 eurorespekt.sk
 0.0.0.0 rodacirodakom.sk
