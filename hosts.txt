@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Wed Apr 29 06:15:47 UTC 2026
+# Updated: Thu Apr 30 06:21:28 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -221,6 +221,7 @@
 0.0.0.0 voiceofeurope.com/cs/
 0.0.0.0 datel.news
 0.0.0.0 jezis-kristus-varovanie.net
+0.0.0.0 slovanskyvybor.sk
 0.0.0.0 e-republika.ch
 0.0.0.0 creativesociety.com
 0.0.0.0 spolocnostsbm.com
@@ -267,6 +268,7 @@
 0.0.0.0 skspravy.sk
 0.0.0.0 veget.blog.pravda.sk
 0.0.0.0 zmensvojzivot.cz
+0.0.0.0 dennikn.news
 0.0.0.0 televiziaslovan.sk
 0.0.0.0 casopisdimenzie.sk
 0.0.0.0 40plus.sk
