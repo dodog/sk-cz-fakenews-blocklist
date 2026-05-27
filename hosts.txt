@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Tue May 26 07:34:33 UTC 2026
+# Updated: Wed May 27 07:54:48 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
