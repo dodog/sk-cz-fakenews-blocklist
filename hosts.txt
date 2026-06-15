@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Sun Jun 14 08:09:26 UTC 2026
+# Updated: Mon Jun 15 09:50:36 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -300,9 +300,11 @@
 0.0.0.0 rozhlady.sk
 0.0.0.0 modryjelen.com
 0.0.0.0 mpgavlak.blog.pravda.sk
+0.0.0.0 snro.info
 0.0.0.0 oracle911blog.wordpress.com
 0.0.0.0 slovenskoaktualne.sk
 0.0.0.0 dfens-cz.com
+0.0.0.0 sia-news.com
 0.0.0.0 meapatria.sk
 0.0.0.0 kupredudominulosti.cz
 0.0.0.0 ipribeh.cz
