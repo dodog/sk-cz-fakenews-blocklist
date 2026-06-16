@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Mon Jun 15 09:50:36 UTC 2026
+# Updated: Tue Jun 16 09:14:38 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -247,6 +247,7 @@
 0.0.0.0 slovanskenebe.com
 0.0.0.0 plenum.sk
 0.0.0.0 zsi.sk
+0.0.0.0 slovenskoveciverejne.com
 0.0.0.0 e-republika.cz
 0.0.0.0 reformy.cz
 0.0.0.0 aktuality24.sk
