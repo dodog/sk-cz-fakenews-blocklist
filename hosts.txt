@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Fri Jun 19 08:57:20 UTC 2026
+# Updated: Sat Jun 20 07:41:21 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -266,6 +266,7 @@
 0.0.0.0 allatra.sk
 0.0.0.0 odbornakomisia.sk
 0.0.0.0 resetheus.org
+0.0.0.0 torden.sk
 0.0.0.0 eportal.cz
 0.0.0.0 skspravy.sk
 0.0.0.0 veget.blog.pravda.sk
