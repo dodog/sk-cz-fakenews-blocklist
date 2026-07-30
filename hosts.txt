@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Wed Jul 29 06:22:48 UTC 2026
+# Updated: Thu Jul 30 06:17:18 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -316,7 +316,6 @@
 0.0.0.0 sknews.sk
 0.0.0.0 armadnymagazin.sk
 0.0.0.0 marker.sk
-0.0.0.0 weeks.cz
 0.0.0.0 prvnizpravy.cz
 0.0.0.0 davdva.sk
 0.0.0.0 duvikoncept.com
