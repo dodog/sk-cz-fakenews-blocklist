@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Wed Aug 12 05:22:17 UTC 2026
+# Updated: Thu Aug 13 05:26:00 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -333,7 +333,6 @@
 0.0.0.0 mimoriadnespravy.sk
 0.0.0.0 novysmer.cz
 0.0.0.0 kob-forum.eu
-0.0.0.0 standard.sk
 0.0.0.0 stredoevropan.cz
 0.0.0.0 medicalcentrum.eu
 0.0.0.0 vlkovobloguje.wordpress.com
@@ -350,6 +349,7 @@
 0.0.0.0 parlamentne-volby-2016.sk
 0.0.0.0 milanantal.blog.pravda.sk
 0.0.0.0 hfi.sk
+0.0.0.0 standard.sk
 0.0.0.0 czechaslavakia.cz
 0.0.0.0 noveslovo.sk
 0.0.0.0 zlapanda.cz
