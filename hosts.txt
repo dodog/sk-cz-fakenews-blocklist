@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Sat Sep 12 08:11:48 UTC 2026
+# Updated: Sun Sep 13 08:36:11 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -72,6 +72,7 @@
 0.0.0.0 isstras.eu
 0.0.0.0 infokuryr.cz
 0.0.0.0 myspulesvet.org
+0.0.0.0 volnyblog.news
 0.0.0.0 zvtv.sk
 0.0.0.0 cz24.news
 0.0.0.0 voxpopuliblog.cz
@@ -122,7 +123,7 @@
 0.0.0.0 alianciazanedelu.sk
 0.0.0.0 nepodvoleni.cz
 0.0.0.0 jednotneslovensko.info
-0.0.0.0 www.chcemeslobodu.sk
+0.0.0.0 chcemeslobodu.sk
 0.0.0.0 kanal22.cz
 0.0.0.0 morezprav.cz
 0.0.0.0 poockovani.cz
@@ -194,6 +195,7 @@
 0.0.0.0 revoluciapravdy.sk
 0.0.0.0 pavolslota.blog.pravda.sk
 0.0.0.0 topcz.net
+0.0.0.0 svobodne-radio.com
 0.0.0.0 slovanskyvybor.sk
 0.0.0.0 jnet.sk
 0.0.0.0 bajecnezdravie.sk
@@ -234,6 +236,7 @@
 0.0.0.0 pskakal2.blog.pravda.sk
 0.0.0.0 ferro.blog.pravda.sk
 0.0.0.0 alatyr.sk
+0.0.0.0 odznova.sk
 0.0.0.0 prinasamenadej.sk
 0.0.0.0 quintus-sertorius.webnode.cz
 0.0.0.0 slovenskoveciverejne.com
@@ -282,6 +285,7 @@
 0.0.0.0 dolezite.sk
 0.0.0.0 napalete.sk
 0.0.0.0 vylectese.cz
+0.0.0.0 vasevec.info
 0.0.0.0 christianitas.sk
 0.0.0.0 dennikn.news
 0.0.0.0 magazin1.sk
@@ -307,6 +311,7 @@
 0.0.0.0 oracle911blog.wordpress.com
 0.0.0.0 slovenskoaktualne.sk
 0.0.0.0 dfens-cz.com
+0.0.0.0 institutisop.sk
 0.0.0.0 meapatria.sk
 0.0.0.0 kupredudominulosti.cz
 0.0.0.0 ipribeh.cz
