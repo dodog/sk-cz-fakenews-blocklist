@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Sun Sep 27 09:37:56 UTC 2026
+# Updated: Mon Sep 28 10:16:21 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -151,6 +151,7 @@
 0.0.0.0 panobcan.sk
 0.0.0.0 slobodnyvyber.sk
 0.0.0.0 nazorobcana.sk
+0.0.0.0 zapravdu.sk
 0.0.0.0 hlavnespravy.sk
 0.0.0.0 dostojneslovensko.eu
 0.0.0.0 mykaellle.blog.pravda.sk
