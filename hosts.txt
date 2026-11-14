@@ -1,5 +1,5 @@
 # SK/CZ Fake news blocklist
-# Updated: Fri Nov 13 11:41:02 UTC 2026
+# Updated: Sat Nov 14 11:03:02 UTC 2026
 # Source: https://konspiratori.sk/static/lists/zoznam_bez_score.txt
 
 0.0.0.0 vigilantcitizen.com
@@ -266,22 +266,22 @@
 0.0.0.0 farmazdravi.cz
 0.0.0.0 janatutkova.blog.pravda.sk
 0.0.0.0 zdrdol.blog.pravda.sk
-0.0.0.0 https://nezaujato.wordpress.com/
+0.0.0.0 nezaujato.wordpress.com
 0.0.0.0 tvotv.sk
 0.0.0.0 paralelne.cz
 0.0.0.0 spdr.sk
 0.0.0.0 allatra.sk
 0.0.0.0 odbornakomisia.sk
 0.0.0.0 resetheus.org
-0.0.0.0 https://www.marian-magat.com/
+0.0.0.0 marian-magat.com
 0.0.0.0 eportal.cz
 0.0.0.0 skspravy.sk
 0.0.0.0 veget.blog.pravda.sk
 0.0.0.0 zmensvojzivot.cz
 0.0.0.0 televiziaslovan.sk
 0.0.0.0 casopisdimenzie.sk
-0.0.0.0 https://www.inovacerepubliky.cz/
-0.0.0.0 https://platforma.inovacerepubliky.cz/blog
+0.0.0.0 inovacerepubliky.cz
+0.0.0.0 platforma.inovacerepubliky.cz
 0.0.0.0 40plus.sk
 0.0.0.0 slovenskydohovorzarodinu.sk
 0.0.0.0 svatoplukzs.cz
@@ -295,7 +295,6 @@
 0.0.0.0 christianitas.sk
 0.0.0.0 dennikn.news
 0.0.0.0 magazin1.sk
-0.0.0.0 https://tvorba.net/
 0.0.0.0 koalafeed.com
 0.0.0.0 slovensky-vecernik.sk
 0.0.0.0 gancovky.sk
